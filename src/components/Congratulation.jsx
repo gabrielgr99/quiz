@@ -4,7 +4,7 @@ export default function Congratulation({rightAnswers, setRenderSecret}) {
       <h3>Parabéns!</h3>
       <br />
       <p>
-        Você completou o QUIZ com {rightAnswers} pontos,
+        Você completou o QUIZ com {rightAnswers} pontos
         e isso te dá o direito de responder a
         pergunta secreta elaborada pela nossa
         plataforma.
