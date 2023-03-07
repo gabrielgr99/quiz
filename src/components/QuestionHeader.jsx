@@ -3,7 +3,7 @@ export default function QuestionHeader({question}) {
     <h4
       className="text-center bg-gradient-to-r from-[#FF7A7A]
       to-[#FFB775] rounded-t-[7px] text-[#FFFFFF] font-bold text-[14px]
-      py-[5px]"
+      p-[5px]"
     >
       {question}
     </h4>

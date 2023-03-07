@@ -1,6 +1,6 @@
 export default function Congratulation({rightAnswers, setRenderSecret}) {
   return (
-    <div className="w-[244px] mx-auto mt-[93px] text-center text-[24px] text-[#FFFFFF]">
+    <div className="w-[244px] mx-auto mt-[93px] text-center text-[24px] text-[#FFFFFF] pb-[20px]">
       <h3>Parabéns!</h3>
       <br />
       <p>

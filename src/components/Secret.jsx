@@ -6,7 +6,7 @@ export default function Secret() {
   const styleBtn = "border-2 border-[#FFFFFF] font-bold h-[42px] w-[110px] rounded mt-[20px]"
 
   return (
-    <div className="w-[244px] mx-auto mt-[93px] text-center text-[24px] text-[#FFFFFF]">
+    <div className="w-[244px] mx-auto mt-[93px] text-center text-[24px] text-[#FFFFFF] pb-[20px]">
       <p>
         Você se casaria com a pessoa que
         escreveu todas essas perguntas? 

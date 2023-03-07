@@ -8,10 +8,7 @@ function App() {
   const [rightAnswers, setRightAnswers] = useState(0);
 
   return (
-    <div
-      className="h-[100vh] bg-gradient-to-br from-[#3d3aff] via-[#C25EFF]
-      to-[#FF5AEF]"
-    >
+    <div className="h-[100vh]">
       <PageHeader />
       {
         finishQuestions
