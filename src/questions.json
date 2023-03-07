@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "question": "Qual minha cor favorita",
+    "options": [
+      "Todas as cores",
+      "Azul",
+      "Vermelho",
+      "Preto"
+    ],
+    "answer": "option-0"
+  },
+  {
+    "id": 1,
+    "question": "Qual o meu chocolate favorito",
+    "options": [
+      "Suflair",
+      "Ouro Branco",
+      "Lacta ao leite",
+      "Kinder Bueno"
+    ],
+    "answer": "option-3"
+  },
+  {
+    "id": 2,
+    "question": "Qual a minha profissão",
+    "options": [
+      "Formatador",
+      "Técnico em informática",
+      "Desenvolvedor Web",
+      "Nenhuma das anteriores"
+    ],
+    "answer": "option-2"
+  },
+  {
+    "id": 3,
+    "question": "País que mais tenho vontade de morar",
+    "options": [
+      "Brasil",
+      "Estados Unidos",
+      "Canada",
+      "Bélgica"
+    ],
+    "answer": "option-1"
+  },
+  {
+    "id": 4,
+    "question": "Um dia na(o)...",
+    "options": [
+      "Praia",
+      "Campo",
+      "Cidade",
+      "Cama"
+    ],
+    "answer": "option-0"
+  },
+  {
+    "id": 5,
+    "question": "Qual meu tipo de música favorito",
+    "options": [
+      "Sertanejo",
+      "Funk",
+      "Gospel",
+      "Axé"
+    ],
+    "answer": "option-2"
+  },
+  {
+    "id": 6,
+    "question": "Qual meu filme preferido",
+    "options": [
+      "Paixão de Cristo",
+      "Paulo: Apóstolo de Cristo",
+      "Tropa de Elite",
+      "Harry Potter"
+    ],
+    "answer": "option-1"
+  },
+  {
+    "id": 7,
+    "question": "O que acho mais bonito em você",
+    "options": [
+      "Olhos",
+      "Mão",
+      "Cabelo",
+      "Todas anteriores"
+    ],
+    "answer": "option-3"
+  },
+  {
+    "id": 8,
+    "question": "Qual pregador eu mais me identifico",
+    "options": [
+      "Camila Barros",
+      "Luciano Subirá",
+      "Rodrigo Silva",
+      "Elizeu Rodrigues"
+    ],
+    "answer": "option-1"
+  },
+  {
+    "id": 9,
+    "question": "Qual minha música preferida atualmente",
+    "options": [
+      "Ser Mudado - Alexandre Vilas Boas",
+      "Jesus em Tua Presença - Morada",
+      "Me Leva Pra Casa - Israel Subirá",
+      "Superabundou - Fernandinho"
+    ],
+    "answer": "option-2"
+  }
+]
