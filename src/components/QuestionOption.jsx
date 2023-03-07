@@ -18,7 +18,7 @@ export default function QuestionOption({option, index, setQuestionNumber, questi
       setQuestionNumber(questionNumber + 1)
       setStyle('')
       setMarked(false);
-    }, 1000);
+    }, 3000);
   };
 
   return (
